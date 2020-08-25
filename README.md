@@ -1,0 +1,2 @@
+# JinMuInfo.github.io
+JinMuInfo
