@@ -1,26 +1,23 @@
 {
-  "title": "MongoDB 中文手册 | MongoDB 中文文档 | 中文操作手册 | 翻译 | CSDN | github | 百度 | Google | 教程 ｜ 安装配置",
-  "description": "MongoDB-Manual-zh",
+  "title": "MongoDB 中文手册 | MongoDB 中文文档 | 中文操作手册 | 翻译 | 上海锦木信息 | github | 主页 |",
+  "description": "上海锦木信息技术有限公司主页",
   "author": "hbnking",
   "language": "zh-hans",
   "root": ".",
   "plugins": [
     "hide-element",
     "-sharing",
-    "donate",
     "tbfed-pagefooter",
     "github-buttons",
     "github",
     "chapter-fold",
     "expandable-chapters",
     "pageview-count",
-    "edit-link",
     "back-to-top-button",
     "-lunr",
     "-search",
     "search-pro",
     "splitter",
-    "page-toc-button",
     "auto-scroll-table",
     "flexible-alerts",
     "alerts",
@@ -33,47 +30,25 @@
         ".gitbook-link"
       ]
     },
-    "donate": {
-      "wechat": "https://docs.jinmu.info/MongoDB-Manual-zh/img/pay/Wechatpay.jpeg",
-      "alipay": "https://docs.jinmu.info/MongoDB-Manual-zh/img/pay/alipay.jpeg",
-      "title": "",
-      "button": "打赏",
-      "alipayText": "支付宝打赏",
-      "wechatText": "微信打赏"
-    },
-    "github-buttons": {
-      "buttons": [
-        {
-          "user": "JinMuInfo",
-          "repo": "MongoDB-Manual-zh",
-          "type": "star",
-          "count": true,
-          "size": "small"
-        }
-      ]
-    },
-    "edit-link": {
-      "base": "https://github.com/JinMuInfo/MongoDB-Manual-zh/blob/master",
-      "label": "Edit This Page"
-    },
-    "tbfed-pagefooter": {
+   
+      "tbfed-pagefooter": {
       "copyright": "Copyright &copy 上海锦木信息技术有限公司",
       "modify_label": "文件修订时间：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
     "github": {
-      "url": "https://github.com/JinMuInfo/MongoDB-Manual-zh"
+      "url": "https://github.com/JinMuInfo/Home"
     },
     "page-toc-button": {
       "maxTocDepth": 4,
       "minTocSize": 4
     },
     "insert-logo": {
-      "url": "https://docs.jinmu.info/MongoDB-Manual-zh/img/logo/MongoLogoBlack.png",
+      "url": "https://docs.jinmu.info/MongoDB-Manual-zh/img/logo/jmlogo.png",
       "style": "background: none; max-height: 30px; min-height: 30px"
     },
     "sitemap": {
-      "hostname": "https://docs.jinmu.info/MongoDB-Manual-zh/"
+      "hostname": "https://docs.jinmu.info/"
     }
   }
 }
