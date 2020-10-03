@@ -2,7 +2,7 @@
 
 * [主页](README.md)
 * [公告](README.md)
-* [文档](README.md)
+* 文档
 	* [MongoDB中文手册| MongoDB中文文档](https://docs.jinmu.info/MongoDB-Manual-zh/)  
 	* [MongoDB常见问题整理](https://github.com/JinMuInfo/Discussion-for-MongoDB)    
 	* [MongoDB 驱动使用及样例(待开展)](https://github.com/JinMuInfo/Mongo-Driver-Usage)  
