@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url> <loc>https://docs.jinmu.info/./</loc> <changefreq>daily</changefreq> <priority>0.99</priority> </url>
+<url> <loc>https://docs.jinmu.info/MongoDB-Manual-zh/./</loc> <changefreq>daily</changefreq> <priority>0.99</priority> </url>
+<url> <loc>https://docs.jinmu.info/MongoDB-Manual-zh/docs/01-The-MongoDB-Manual-CN.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://docs.jinmu.info/MongoDB-Manual-zh/docs/03-Mongo-Introduction.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://docs.jinmu.info/MongoDB-Manual-zh/docs/02-Mongo-Introduction/MongoDB-history.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://docs.jinmu.info/MongoDB-Manual-zh/docs/02-Mongo-Introduction/MongoDB-characteristic.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://docs.jinmu.info/MongoDB-Manual-zh/docs/02-Mongo-Introduction/MongoDB-Advantages-of-databases.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://docs.jinmu.info/MongoDB-Manual-zh/docs/02-Mongo-Introduction/Getting-Started.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://docs.jinmu.info/MongoDB-Manual-zh/docs/02-Mongo-Introduction/Databases-and-Collections.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://docs.jinmu.info/MongoDB-Manual-zh/docs/02-Mongo-Introduction/Databases-and-Collections/Views.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://docs.jinmu.info/MongoDB-Manual-zh/docs/02-Mongo-Introduction/Databases-and-Collections/On-Demand-Materialized-Views.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://docs.jinmu.info/MongoDB-Manual-zh/docs/02-Mongo-Introduction/Databases-and-Collections/Capped-Collections.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://docs.jinmu.info/MongoDB-Manual-zh/docs/02-Mongo-Introduction/Documents.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://docs.jinmu.info/MongoDB-Manual-zh/docs/02-Mongo-Introduction/BSON-Types.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://docs.jinmu.info/MongoDB-Manual-zh/docs/02-Mongo-Introduction/BSON-Types/Comparison-Sort-Order.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://docs.jinmu.info/MongoDB-Manual-zh/docs/02-Mongo-Introduction/BSON-Types/Extended-Json-v2.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://docs.jinmu.info/MongoDB-Manual-zh/docs/02-Mongo-Introduction/BSON-Types/Extended-Json-v1.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://docs.jinmu.info/MongoDB-Manual-zh/docs/05-Install-MongoDB.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+</urlset>
