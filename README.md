@@ -28,7 +28,7 @@
 [linux](https://docs.jinmu.info/linux/)
 
 ## **计划模块** 
-unix  时间在线转换
-Python 基础学习 
-Java  基础学习 
-LDAP  的基本使用及操作
+unix  时间在线转换  
+Python 基础学习   
+Java  基础学习   
+LDAP  的基本使用及操作  
