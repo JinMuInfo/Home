@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -361,86 +360,31 @@
 <script type="text/javascript" src="js/smoothscroll.js"></script> 
 <script type="text/javascript" src="js/nivo-lightbox.js"></script> 
 <script type="text/javascript" src="js/main.js"></script>
+<script>
+    (function(){
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+        }
+        else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+</script>
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?be45b1d7857fe784feb39634ff071d08";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
 
 <div style="display:none;">
 </div>
 </body>
 </html>
-=======
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-
-  <meta charset="UTF-8">
-  <title>上海锦木信息文档专栏</title>
-  <meta name="description" content="Mongodb中文手册,教材,分享MongoDB 常见问题 ">
-  <meta name="keywords" content="doc,docs,MongoDB,手册,中文,翻译,在线预览,MongoDB中文手册,MongoDB中文文档,MongoDB汉化文档">
-  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
-</head>
-<body>
-  <div id="app"></div>
-</body>
-  
-<script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.min.js"></script>
-<script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
-<script type="text/javascript">
-window.$docsify = {
-  name: '《JinMuInfo Documents》',
-  repo: 'https://github.com/JinMuInfo/Home.git',
-  loadSidebar: true,
-  subMaxLevel: 2,
-  formatUpdated: '{YYYY}-{MM}-{DD} {HH}:{mm}',
-  executeScript: true,
-  plugins: [
-      
- ],
-  alias: {
-  }
-}
-</script>
-<script type="text/javascript" src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-<script>
-(function(){
-    var bp = document.createElement('script');
-    var curProtocol = window.location.protocol.split(':')[0];
-    if (curProtocol === 'https') {
-        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
-    }
-    else {
-        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
-    }
-    var s = document.getElementsByTagName("script")[0];
-    s.parentNode.insertBefore(bp, s);
-})();
-</script>
-<script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?be45b1d7857fe784feb39634ff071d08";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
-<script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
-<script>
-  const gitalk = new Gitalk({
-    clientID: '8b9dc103130e6ae0a1e9',
-    clientSecret: 'e5f47c0b041d6d4433747bd993b7d4ee56a957d6',
-    repo: 'Home',
-    owner: 'JinMuInfo',
-    admin: ['HbnKing','ys17513628804','liguanfei'],
-    id: md5(location.hash.indexOf("?")>0? location.hash.substring(0,location.hash.indexOf("?")):location.hash),
-    distractionFreeMode: false,
-    title: document.title,
-    body:  '文章链接：'+ decodeURIComponent(location.href),
-  })
-</script>
-
-</html>
->>>>>>> ea1b647ed943728930ba40c5699af5f298063cd8
