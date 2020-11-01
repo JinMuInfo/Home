@@ -24,7 +24,7 @@
 [MongoDB常见问题整理](https://github.com/JinMuInfo/discussion-for-mongo)    
 [MongoDB 驱动使用及样例(待开展)](https://github.com/JinMuInfo/mongo-driver-usage)  
 [快学MongoDB(待开展)](https://docs.jinmu.info/quick-learn-mongo/)   
-[the-little-mongodb-book](docs.jinmu.info/the-little-mongodb-book/)  
+[the-little-mongodb-book](https://docs.jinmu.info/the-little-mongodb-book/)  
 [linux 中文材料](https://docs.jinmu.info/linux/)  
 
 ## **计划模块** 
