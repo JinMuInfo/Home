@@ -21,11 +21,11 @@
 
 ##  **常用链接** 
 [MongoDB 中文手册 | MongoDB 中文文档 | 官方手册中文版翻译](https://docs.jinmu.info/MongoDB-Manual-zh/)  
-[MongoDB常见问题整理](https://github.com/JinMuInfo/Discussion-for-MongoDB)    
-[MongoDB 驱动使用及样例(待开展)](https://github.com/JinMuInfo/Mongo-Driver-Usage)  
-[快学MongoDB(待开展)](https://docs.jinmu.info/Quick-Learn-Mongo/)   
+[MongoDB常见问题整理](https://github.com/JinMuInfo/discussion-for-mongo)    
+[MongoDB 驱动使用及样例(待开展)](https://github.com/JinMuInfo/mongo-driver-usage)  
+[快学MongoDB(待开展)](https://docs.jinmu.info/quick-learn-mongo/)   
 [the-little-mongodb-book](docs.jinmu.info/the-little-mongodb-book/)  
-[linux 中文材料](https://docs.jinmu.info/Linux/)  
+[linux 中文材料](https://docs.jinmu.info/linux/)  
 
 ## **计划模块** 
 unix  时间在线转换  
